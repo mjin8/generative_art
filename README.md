@@ -1,1 +1,3 @@
-<img align="center" width="100" height="100" src=gifs/bubbles.gif">
+<p align="center">
+  <img width="460" height="300" src=gifs/bubbles.gif>
+</p>
